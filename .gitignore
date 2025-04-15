@@ -1,0 +1,14 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
